@@ -16,7 +16,7 @@ Bu proje, çeşitli araçların özelliklerini ve benzin tüketimini hesaplayan 
   - Çok hızlı gidiyor
 
 Bu mesajları interface yada interface leri kullanarak ekrana nasıl yazdırırdınız.
-Not:Tek interface de yazarsak Solid prensiplerinden Interface segregation principle uygun olmaz.Interface Segregation Principle (ISP) prensibini kullanarak her bir aracın özelliklerini farklı arayüzlere ayırdım.
+*Not:Tek interface de yazarsak Solid prensiplerinden Interface segregation principle uygun olmaz.Interface Segregation Principle (ISP) prensibini kullanarak her bir aracın özelliklerini farklı arayüzlere ayırdım.*
 
 ## Benzin Tüketimi
 
