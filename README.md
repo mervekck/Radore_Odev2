@@ -1,10 +1,11 @@
 interface için
       bmw                         mercedes 			              porche
 bmw havada uçuyor		        mercedes havada uçuyor 		
-bmw denizde yüzüyor		      mercedes denizde yüzüyor	
-bmw çok hızlı gidiyor                                     porche çok hızlı gidiyor
-
+bmw denizde yüzüyor		  mercedes denizde yüzüyor	
+bmw çok hızlı gidiyor                                                porche çok hızlı gidiyor
+      
 bu mesajları interface yada interface leri kullanarak ekrana nasıl yazdırırdınız.
+Not:Solid Interface segregation principle göre interfaceleri tek bir yerde değil hepsini kendine özel interface olarak tanımladım.
 
 abstract class
  bmw 60.0 Litre mercedes 70.0 litre		porche 80.0 litre
