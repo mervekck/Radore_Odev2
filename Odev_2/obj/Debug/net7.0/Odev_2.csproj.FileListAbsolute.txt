@@ -1,0 +1,14 @@
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.AssemblyInfo.cs
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\bin\Debug\net7.0\Odev_2.exe
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\bin\Debug\net7.0\Odev_2.deps.json
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\bin\Debug\net7.0\Odev_2.runtimeconfig.json
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\bin\Debug\net7.0\Odev_2.dll
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\bin\Debug\net7.0\Odev_2.pdb
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.dll
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\refint\Odev_2.dll
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.pdb
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\Odev_2.genruntimeconfig.cache
+C:\Users\merve\Desktop\Radore Bootcamp\Odev_2\Odev_2\obj\Debug\net7.0\ref\Odev_2.dll
