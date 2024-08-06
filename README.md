@@ -1,14 +1,29 @@
-interface için
-      bmw                         mercedes 			              porche
-bmw havada uçuyor		        mercedes havada uçuyor 		
-bmw denizde yüzüyor		  mercedes denizde yüzüyor	
-bmw çok hızlı gidiyor                                                porche çok hızlı gidiyor
-      
-bu mesajları interface yada interface leri kullanarak ekrana nasıl yazdırırdınız.
-Not:Solid Interface segregation principle göre interfaceleri tek bir yerde değil hepsini kendine özel interface olarak tanımladım.
+# Araç Özellikleri ve Benzin Tüketimi Uygulaması
 
-abstract class
- bmw 60.0 Litre mercedes 70.0 litre		porche 80.0 litre
- toplamda ne kadar benzin harcıyorlar.
+Bu proje, çeşitli araçların özelliklerini ve benzin tüketimini hesaplayan ve ekrana yazdıran bir C# uygulamasıdır.
+## Araç Özellikleri
 
-Tek interface de yazarsak Solid prensiplerinden Interface segregation principle uygun olmaz.
+- **BMW**
+  - Havada uçuyor
+  - Denizde yüzüyor
+  - Çok hızlı gidiyor
+
+- **Mercedes**
+  - Havada uçuyor
+  - Denizde yüzüyor
+
+- **Porsche**
+  - Çok hızlı gidiyor
+
+Bu mesajları interface yada interface leri kullanarak ekrana nasıl yazdırırdınız.
+Not:Tek interface de yazarsak Solid prensiplerinden Interface segregation principle uygun olmaz.Interface Segregation Principle (ISP) prensibini kullanarak her bir aracın özelliklerini farklı arayüzlere ayırdım.
+
+## Benzin Tüketimi
+
+- **BMW:** 60.0 Litre
+- **Mercedes:** 70.0 Litre
+- **Porsche:** 80.0 Litre
+  
+Toplamda ne kadar benzin harcıyorlar.
+
+ 
